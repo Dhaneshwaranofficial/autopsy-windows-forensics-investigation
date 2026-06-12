@@ -1,8 +1,8 @@
 # Comprehensive Digital Forensic Analysis of a Compromised Windows System
 
-![Autopsy](https://img.shields.io/badge/Autopsy-Forensics-blue)
-![Incident Response](https://img.shields.io/badge/Incident_Response-BEC_Investigation-red)
-![Windows XP](https://img.shields.io/badge/Environment-Windows_Endpoint-lightgrey)
+![Autopsy](https://img.shields.io/badge/Autopsy-Forensics-blue?style=for-the-badge)
+![Incident Response](https://img.shields.io/badge/Incident_Response-BEC_Investigation-red?style=for-the-badge)
+![Windows XP](https://img.shields.io/badge/Environment-Windows_Endpoint-lightgrey?style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dhaneshwaranofficial/)
 
 ## 📖 Project Overview
