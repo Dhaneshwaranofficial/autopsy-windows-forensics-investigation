@@ -1,5 +1,9 @@
 # Comprehensive Digital Forensic Analysis of a Compromised Windows System
 
+![Autopsy](https://img.shields.io/badge/Autopsy-Forensics-blue)
+![Incident Response](https://img.shields.io/badge/Incident_Response-BEC_Investigation-red)
+![Windows XP](https://img.shields.io/badge/Environment-Windows_Endpoint-lightgrey)
+
 ## 📖 Project Overview
 This project documents a digital forensic investigation conducted on a compromised corporate Windows disk image (M57-Jean scenario). The objective of this analysis was to identify indicators of compromise (IOCs), reconstruct user activity, and determine the exact exfiltration vector of highly sensitive corporate data (employee salaries and SSNs).
 
