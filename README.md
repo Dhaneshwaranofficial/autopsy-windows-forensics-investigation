@@ -62,7 +62,7 @@ Falling for the social engineering lure, the user compiled the requested sensiti
 Shortly after the file was created, the attacker sent a second, high-urgency email demanding the data immediately. 
 
 * **Artifact Found:** E-Mail Message (Phishing Payload / Exfiltration)
-* **Timestamp:** July 20, 2008 05:14:00 IST (Reply)
+* **Timestamp:** July 20, 2008 06:58:00 IST (Reply)
 * **Observation:** The user replied to the second urgent email, attaching the newly created `m57biz.xls` spreadsheet. The attacker utilized a deceptive `mailto:` reply address, routing the exfiltrated data directly to `tuckgorge@gmail.com`, inadvertently exposing corporate data to an unauthorized third party.
 
 <p align="center">
