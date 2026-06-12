@@ -62,7 +62,7 @@ Shortly after the file was created, the attacker sent a second, high-urgency ema
 * **Conclusion:** No other internal employees were involved. The incident was exclusively an external BEC attack, and the user was an unwitting victim of social engineering.
 
 <p align="center">
-  <img src="[https://github.com/user-attachments/assets/5f1ebe9f-a689-483d-83f6-9c9b27293aa1]" />
+  <img src="https://github.com/user-attachments/assets/5f1ebe9f-a689-483d-83f6-9c9b27293aa1" />
   <br>
   <i>Figure 4: Communications Visualization timeline isolating the threat actor.</i>
 </p>
