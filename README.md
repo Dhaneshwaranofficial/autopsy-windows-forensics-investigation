@@ -11,7 +11,7 @@ This project documents a digital forensic investigation conducted on a compromis
 This investigation utilizes the **M57-Jean** dataset provided by Digital Corpora. While the scenario is simulated, the analysis, methodology, and artifact extraction were conducted independently as a demonstration of applied digital forensics.
 
 ## 🛠️ Tools & Environment
-* **Forensic Analysis Tool:** Autopsy (v4.x)
+* **Forensic Analysis Tool:** Autopsy (v4.23.1)
 * **Target OS Environment:** Windows XP (Corporate Endpoint)
 * **Core Modules Run:** Recent Activity, Keyword Search, Email Parser, Extension Mismatch Detector
 
