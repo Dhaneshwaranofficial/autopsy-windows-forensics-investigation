@@ -42,7 +42,11 @@ Falling for the social engineering lure, the user compiled the requested sensiti
 * **Path:** `Documents and Settings/Jean/Desktop/m57biz.xls`
 * **File Metadata:** The file was created on July 20, 2008 at 06:58:03 IST, perfectly aligning with the timeline immediately following the spoofed email request.
 
-* File created from Jeans computer <img width="1711" height="918" alt="File created from Jeans computer" src="https://github.com/user-attachments/assets/42cc40a5-929f-4fd7-be72-b47bde8af07d" />*
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a6fc1c9c-6e5d-4641-b7a0-5ea5e3c3417f" />
+  <br>
+  <i>Figure 2: File metadata confirming the exact creation time of the exfiltrated spreadsheet.</i>
+</p>
 
 ### 3. Data Exfiltration via Spear Phishing 
 Shortly after the file was created, the attacker sent a second, high-urgency email demanding the data immediately. 
@@ -52,7 +56,7 @@ Shortly after the file was created, the attacker sent a second, high-urgency ema
 * **Observation:** The user replied to the second urgent email, attaching the newly created `m57biz.xls` spreadsheet. The attacker utilized a deceptive `mailto:` reply address, routing the exfiltrated data directly to `tuckgorge@gmail.com`, inadvertently exposing corporate data to an unauthorized third party.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/73c8a036-b4ad-4245-86e0-d8930c74547d" />"
+  <img src="https://github.com/user-attachments/assets/73c8a036-b4ad-4245-86e0-d8930c74547d" />
   <br>
   <i>Figure 3: The targeted phishing email utilized to exfiltrate the data.</i>
 </p>
