@@ -61,8 +61,11 @@ Shortly after the file was created, the attacker sent a second, high-urgency ema
 * **Findings:** The communication regarding the sensitive data was strictly isolated between the victim and the external threat actor. 
 * **Conclusion:** No other internal employees were involved. The incident was exclusively an external BEC attack, and the user was an unwitting victim of social engineering.
 
-*Communications Visualization timeline: <img width="1917" height="1027" alt="Communications" src="https://github.com/user-attachments/assets/05d5d869-ae53-4505-a58f-12a32ebd396f" />*
-
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/289480409/607047901-05d5d869-ae53-4505-a58f-12a32ebd396f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODEyNjE3NjMsIm5iZiI6MTc4MTI2MTQ2MywicGF0aCI6Ii8yODk0ODA0MDkvNjA3MDQ3OTAxLTA1ZDVkODY5LWFlNTMtNDUwNS1hNThmLTEyYTMyZWJkMzk2Zi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNjEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDYxMlQxMDUxMDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jYmJhZGE2MmM3MWE3YjI0MDEwMDVmNzUxODNiN2QwYTkzMjIyOWEzYTliYzRlYjhlNTc4N2VkOTQzOTMwZGVmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.1jdB3OWn08W2dxHMb2SIzYCTCROLv5s1x85ttsUaUuU" alt="Communications Visualization">
+  <br>
+  <i>Figure 4: Communications Visualization timeline isolating the threat actor.</i>
+</p>
 
 ---
 
