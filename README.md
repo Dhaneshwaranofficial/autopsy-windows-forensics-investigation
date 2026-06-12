@@ -92,7 +92,6 @@ The forensic analysis confirms that the corporate endpoint was not compromised v
 
 **Modern Mitigation Strategy:** In a modern infrastructure environment, this specific attack lifecycle would be broken by implementing strict **SPF, DKIM, and DMARC** policies to prevent external servers from successfully spoofing the internal domain, alongside enforcing External Sender Warnings on the email client.
 
-```
 ---
 ### 📬 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dhaneshwaranofficial/)
