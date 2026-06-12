@@ -3,6 +3,9 @@
 ## 📖 Project Overview
 This project documents a digital forensic investigation conducted on a compromised corporate Windows disk image (M57-Jean scenario). The objective of this analysis was to identify indicators of compromise (IOCs), reconstruct user activity, and determine the exact exfiltration vector of highly sensitive corporate data (employee salaries and SSNs).
 
+### 📝 Dataset Acknowledgement
+This investigation utilizes the **M57-Jean** dataset provided by Digital Corpora. While the scenario is simulated, the analysis, methodology, and artifact extraction were conducted independently as a demonstration of applied digital forensics.
+
 ## 🛠️ Tools & Environment
 * **Forensic Analysis Tool:** Autopsy (v4.x)
 * **Target OS Environment:** Windows XP (Corporate Endpoint)
