@@ -95,4 +95,4 @@ The forensic analysis confirms that the corporate endpoint was not compromised v
 ```
 ---
 ### 📬 Let's Connect
-* **LinkedIn:** [https://www.linkedin.com/in/dhaneshwaranofficial/]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dhaneshwaranofficial/)
