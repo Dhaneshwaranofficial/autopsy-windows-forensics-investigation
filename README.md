@@ -51,7 +51,11 @@ Shortly after the file was created, the attacker sent a second, high-urgency ema
 * **Timestamp:** July 20, 2008 05:14:00 IST (Reply)
 * **Observation:** The user replied to the second urgent email, attaching the newly created `m57biz.xls` spreadsheet. The attacker utilized a deceptive `mailto:` reply address, routing the exfiltrated data directly to `tuckgorge@gmail.com`, inadvertently exposing corporate data to an unauthorized third party.
 
-* Jean got phished = <img width="1917" height="1034" alt="Jean got phished" src="https://github.com/user-attachments/assets/3745d47d-c652-444d-9cf4-ddfa2f3019de" />*
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/73c8a036-b4ad-4245-86e0-d8930c74547d" />"
+  <br>
+  <i>Figure 3: The targeted phishing email utilized to exfiltrate the data.</i>
+</p>
 
 ---
 
