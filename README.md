@@ -33,7 +33,17 @@ The investigation revealed a multi-stage Business Email Compromise (BEC) attack.
 * **Timestamp:** July 20, 2008 05:09:57 IST
 * **Forensic Evidence:** While the display name read `alison@m57.biz`, analysis of the raw SMTP headers revealed a `Return-Path` of `<simsong@xy.dreamhostps.com>` and an originating server of `smarty.dreamhost.com`. This proves the email bypassed internal corporate routing and originated from an external host. 
 
-*image of the email header and luring the CFO like the real boss <img width="1919" height="1027" alt="email-header" src="https://github.com/user-attachments/assets/a6dba497-03a9-425c-bf78-dfc36d439c30" /> and <img width="1919" height="1027" alt="Luring jean like a real boss" src="https://github.com/user-attachments/assets/df1189d9-df06-499f-b597-9f1b48f716bf" />*
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1a46afe7-f966-4b65-948a-7fb56efb03d3" />
+  <br>
+  <i>Figure 1.1: Raw SMTP headers revealing the external origin of the spoofed email.</i>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/787e5c17-ac87-45b0-ab96-92d3af2047ce" />
+  <br>
+  <i>Figure 1.2: The initial grooming email spoofing the internal executive.</i>
+</p>
 
 ### 2. Data Compilation
 Falling for the social engineering lure, the user compiled the requested sensitive data into an Excel spreadsheet. 
